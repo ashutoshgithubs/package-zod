@@ -10,7 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@100xdevs/common": "^1.0.1",
+    "@ashu-bhai/common": "^1.0.1",
+    "@ashu-bhai/common": "^1.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.14.2",
