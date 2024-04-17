@@ -52,9 +52,9 @@ TypeScript
 
 ```
 // server-side code (e.g., Node.js)
-import { signupInput } from "@your-username/zod-wrapper";
+import { signupInput } from "@ashu-bhai/common";
 
-const userData = { username: "john_doe", password: "password123" };
+const userData = { username: "ashutosh", password: "********" };
 
 try {
   signupInput.parse(userData);
@@ -79,7 +79,7 @@ TypeScript
 // client-side code (e.g., React, Vue.js)
 import { signupInput } from "@ashu-bhai/common";
 
-const userData = { username: "ashutoh", password: "password2003" };
+const userData = { username: "ashutoh", password: "********" };
 
 try {
   signupInput.parse(userData);
